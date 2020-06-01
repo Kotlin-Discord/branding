@@ -1,180 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="Layer_1"
-   x="0px"
-   y="0px"
-   viewBox="0 0 100 100"
-   xml:space="preserve"
-   sodipodi:docname="modmail.svg"
-   width="100"
-   height="100"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   inkscape:export-filename="C:\Users\coles\IdeaProjects\branding\modmail\modmail-512.png"
-   inkscape:export-xdpi="491.51999"
-   inkscape:export-ydpi="491.51999"><metadata
-   id="metadata102"><rdf:RDF><cc:Work
-       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
-   id="defs100">
-
-		<linearGradient
-   gradientTransform="matrix(1,0,0,-1,0,61)"
-   y2="15.3332"
-   x2="44.306801"
-   y1="-13.0143"
-   x1="15.9594"
-   gradientUnits="userSpaceOnUse"
-   id="XMLID_3_">
-		<stop
-   id="stop57"
-   style="stop-color:#0095D5"
-   offset="9.677000e-02" />
-		<stop
-   id="stop59"
-   style="stop-color:#238AD9"
-   offset="0.3007" />
-		<stop
-   id="stop61"
-   style="stop-color:#557BDE"
-   offset="0.6211" />
-		<stop
-   id="stop63"
-   style="stop-color:#7472E2"
-   offset="0.8643" />
-		<stop
-   id="stop65"
-   style="stop-color:#806EE3"
-   offset="1" />
-	</linearGradient>
-	
-
-		<linearGradient
-   gradientTransform="matrix(1,0,0,-1,0,61)"
-   y2="65.404999"
-   x2="20.673401"
-   y1="48.940899"
-   x1="4.2091999"
-   gradientUnits="userSpaceOnUse"
-   id="SVGID_1_"
-   xlink:href="#SVGID_2_">
-		<stop
-   id="stop69"
-   style="stop-color:#0095D5"
-   offset="0.1183" />
-		<stop
-   id="stop71"
-   style="stop-color:#3C83DC"
-   offset="0.4178" />
-		<stop
-   id="stop73"
-   style="stop-color:#6D74E1"
-   offset="0.6962" />
-		<stop
-   id="stop75"
-   style="stop-color:#806EE3"
-   offset="0.8333" />
-	</linearGradient>
-	
-
-		<linearGradient
-   gradientTransform="matrix(1,0,0,-1,0,61)"
-   y2="61.669399"
-   x2="45.731499"
-   y1="5.8362002"
-   x1="-10.1017"
-   gradientUnits="userSpaceOnUse"
-   id="SVGID_2_">
-		<stop
-   id="stop80"
-   style="stop-color:#C757BC"
-   offset="0.1075" />
-		<stop
-   id="stop82"
-   style="stop-color:#D0609A"
-   offset="0.2138" />
-		<stop
-   id="stop84"
-   style="stop-color:#E1725C"
-   offset="0.4254" />
-		<stop
-   id="stop86"
-   style="stop-color:#EE7E2F"
-   offset="0.6048" />
-		<stop
-   id="stop88"
-   style="stop-color:#F58613"
-   offset="0.743" />
-		<stop
-   id="stop90"
-   style="stop-color:#F88909"
-   offset="0.8232" />
-	</linearGradient>
-	
-</defs><sodipodi:namedview
-   pagecolor="#7289da"
-   bordercolor="#666666"
-   borderopacity="1"
-   objecttolerance="10"
-   gridtolerance="10"
-   guidetolerance="10"
-   inkscape:pageopacity="1"
-   inkscape:pageshadow="2"
-   inkscape:window-width="1920"
-   inkscape:window-height="1017"
-   id="namedview98"
-   showgrid="false"
-   inkscape:snap-page="false"
-   fit-margin-top="20"
-   inkscape:zoom="4"
-   inkscape:cx="79.669033"
-   inkscape:cy="54.989742"
-   inkscape:window-x="1072"
-   inkscape:window-y="520"
-   inkscape:window-maximized="1"
-   inkscape:current-layer="layer3"
-   fit-margin-bottom="20"
-   fit-margin-right="20"
-   fit-margin-left="20" />
-
-<g
-   inkscape:groupmode="layer"
-   id="layer1"
-   inkscape:label="Shadow"
-   style="display:inline" /><g
-   inkscape:groupmode="layer"
-   id="layer2"
-   inkscape:label="Logo"
-   style="display:inline" /><g
-   inkscape:groupmode="layer"
-   id="layer3"
-   inkscape:label="Envelope"
-   style="display:inline"><g
-     id="g4585"
-     transform="translate(0,-4)"><path
-       style="display:inline;fill:#000000;fill-opacity:0.20392157;stroke:none;stroke-width:0.11048543;stroke-opacity:1"
-       id="path2-9"
-       d="M 78.375003,34 H 29.625 C 26.518361,34 24,36.238547 24,39 v 30 c 0,2.761453 2.518361,5 5.625,5 h 48.750003 c 3.10664,0 5.625,-2.238547 5.625,-5 V 39 c 0,-2.761453 -2.51836,-5 -5.625,-5 z m 0,5 v 4.25052 C 75.747424,45.152493 71.558443,48.11 62.60309,54.343227 60.62953,55.72312 56.72016,59.038227 54,58.999587 51.28031,59.038657 47.36965,55.7226 45.39691,54.343227 36.44297,48.110933 32.25293,45.152813 29.625,43.25052 V 39 Z M 29.625,69 V 49.666453 c 2.68523,1.901147 6.493241,4.56896 12.29742,8.60896 2.561371,1.792187 7.04696,5.748547 12.07758,5.72448 5.0059,0.024 9.43465,-3.874893 12.07652,-5.72364 5.804073,-4.039893 9.613133,-6.70844 12.298483,-8.609693 V 69 Z"
-       inkscape:connector-curvature="0" /><g
-       id="g4577"><rect
-         style="display:inline;fill:#fff9e8;fill-opacity:1;stroke:none;stroke-width:0.90559894;stroke-opacity:1"
-         id="rect4552"
-         width="56.922096"
-         height="35.88567"
-         x="21.743534"
-         y="32.471302"
-         ry="0" /><path
-         inkscape:connector-curvature="0"
-         d="M 74.375,30 H 25.625 C 22.51836,30 20,32.238547 20,35 v 30 c 0,2.761453 2.51836,5 5.625,5 h 48.75 C 77.48164,70 80,67.761453 80,65 V 35 c 0,-2.761453 -2.51836,-5 -5.625,-5 z m 0,5 v 4.25052 C 71.74742,41.152493 67.55844,44.11 58.60309,50.343227 56.62953,51.72312 52.72016,55.038227 50,54.999587 47.28031,55.038657 43.36965,51.7226 41.39691,50.343227 32.44297,44.110933 28.25293,41.152813 25.625,39.25052 V 35 Z M 25.625,65 V 45.666453 c 2.68523,1.901147 6.49324,4.56896 12.29742,8.60896 2.56137,1.792187 7.04696,5.748547 12.07758,5.72448 5.0059,0.024 9.43465,-3.874893 12.07652,-5.72364 5.80407,-4.039893 9.61313,-6.70844 12.29848,-8.609693 V 65 Z"
-         id="path2"
-         style="display:inline;fill:#cbd6ff;fill-opacity:1;stroke:none;stroke-width:0.11048543;stroke-opacity:1" /></g></g></g></svg>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect x="0" y="0" width="100" height="100" style="fill:rgb(114,137,218);"/>
+    <g transform="matrix(1,0,0,1,4.01947,4.03391)">
+        <rect x="17.181" y="28.666" width="65.639" height="42.526" style="fill-opacity:0.2;"/>
+    </g>
+    <g id="Envelope">
+        <g transform="matrix(1,0,0,1.25052,1.42109e-14,19.1227)">
+            <rect x="17.181" y="7.688" width="65.639" height="34.007" style="fill:white;"/>
+        </g>
+        <g transform="matrix(4.74691,0,0,4.61285,-254.96,-13.6637)">
+            <path d="M71.158,9.74L71.158,18.411L62.737,18.411L71.158,9.74Z" style="fill:rgb(203,214,255);"/>
+        </g>
+        <g transform="matrix(-4.74691,0,0,4.61285,354.961,-13.6637)">
+            <path d="M71.158,9.74L71.158,18.411L62.737,18.411L71.158,9.74Z" style="fill:rgb(203,214,255);"/>
+        </g>
+        <g transform="matrix(-1,-1.22465e-16,1.22465e-16,-1,100,87.5736)">
+            <path d="M50,28.737L80,58.837L20,58.837L50,28.737Z" style="fill:rgb(203,214,255);"/>
+        </g>
+    </g>
+</svg>
