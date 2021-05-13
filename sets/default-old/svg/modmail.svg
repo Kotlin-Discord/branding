@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect x="0" y="0" width="100" height="100" style="fill:rgb(114,137,218);"/>
+    <g transform="matrix(1,0,0,1,4.01947,4.03391)">
+        <rect x="17.181" y="28.666" width="65.639" height="42.526" style="fill-opacity:0.2;"/>
+    </g>
+    <g id="Envelope">
+        <g transform="matrix(1,0,0,1.25052,1.42109e-14,19.1227)">
+            <rect x="17.181" y="7.688" width="65.639" height="34.007" style="fill:white;"/>
+        </g>
+        <g transform="matrix(4.74691,0,0,4.61285,-254.96,-13.6637)">
+            <path d="M71.158,9.74L71.158,18.411L62.737,18.411L71.158,9.74Z" style="fill:rgb(203,214,255);"/>
+        </g>
+        <g transform="matrix(-4.74691,0,0,4.61285,354.961,-13.6637)">
+            <path d="M71.158,9.74L71.158,18.411L62.737,18.411L71.158,9.74Z" style="fill:rgb(203,214,255);"/>
+        </g>
+        <g transform="matrix(-1,-1.22465e-16,1.22465e-16,-1,100,87.5736)">
+            <path d="M50,28.737L80,58.837L20,58.837L50,28.737Z" style="fill:rgb(203,214,255);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,2.63074,-2.63316)">
+            <path d="M77.369,31.37L80.189,31.37L80.189,33.896L50.001,64.103L47.37,61.471L77.369,31.37Z" style="fill:rgb(255,241,203);"/>
+        </g>
+    </g>
+</svg>
